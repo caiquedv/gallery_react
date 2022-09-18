@@ -27,7 +27,7 @@
 
 Projeto desenvolvido para fins didáticos durante o curso do [Bonyeck Lacerda](https://www.instagram.com/bonieky) na plataforma B7Web. <br>
 
-Essa galeria funciona integrada ao serviço Firebase para armazenar as imagens inseridas no aplicativo. <br>
+Essa galeria funciona integrada ao serviço Firebase. <br>
 É possivel inserir e excluir uma ou mais imagens.
 
 
